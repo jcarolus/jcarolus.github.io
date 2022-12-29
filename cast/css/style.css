@@ -1,0 +1,48 @@
+body {
+	background-color: #704d33;
+	color: #f1f1f1;
+	text-shadow: 2px 2px 2px #333333;
+	font-family: Arial, sans-serif;
+	font-size: 22px;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+p {
+    margin-left: 5px;   
+}
+
+.container {
+    position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 720px;
+	overflow: hidden;
+    background-color: #704d33;
+    background-image: url('../images/logo.svg');
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 0;
+}
+
+
+#board {
+	position: relative;
+    border:2px solid #000;
+	margin: 0px auto;
+}
+.square{
+    position: absolute;
+}
+.square.b{
+    background-color: #deac5d;
+}
+.square.w{
+    background-color: #f9e3c0;
+}
+.piece {
+    position: absolute;
+    background-size: contain;
+}

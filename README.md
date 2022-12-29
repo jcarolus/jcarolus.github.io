@@ -32,4 +32,3 @@ Chess is open sourced, check out the GitHub repository:
 https://github.com/jcarolus/android-chess
 
 Created and maintained by Jeroen Carolus
-
