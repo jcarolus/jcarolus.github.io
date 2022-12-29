@@ -1,6 +1,9 @@
 markdown: kramdown
-theme: minima
 title: Chess
 author:
   name: Jeroen Carolus
   email: "jcarolus@gmail.com"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
