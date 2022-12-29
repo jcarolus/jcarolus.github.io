@@ -14,7 +14,7 @@ Install Chess via the Play store:
 - Setup board
 - Play online on the Free Internet Chess Server (FICS)
 - Cast the board via Chromecast
-
+- Free and no advertisements
 
 ### Source
 
