@@ -1,7 +1,7 @@
 # Privacy policy
 
-Chess adheres to the [Content Policy for Developers](http://www.android.com/market/terms/developer-content-policy.html)
-and to the [Google Play Developer Distribution Agreement](http://www.android.com/us/developer-distribution-agreement.html#showlanguages).
+Chess adheres to the [Content Policy for Developers](https://play.google.com/about/developer-content-policy/)
+and to the [Google Play Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html).
 
 Chess does not have ways to collect your personal data.
 "Play online" uses a direct connection to the Freechess servers:
