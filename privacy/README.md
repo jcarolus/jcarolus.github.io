@@ -1,4 +1,5 @@
-## Privacy
+# Privacy policy
+
 
 Chess is a non-commercial application. It's free and does not contain advertisements.
 Chess does not have ways to collect your personal data.
