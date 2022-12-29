@@ -1,4 +1,3 @@
-# Chess
 
 ![Chess](./images/logo.svg)
 

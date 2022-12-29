@@ -1,2 +1,6 @@
 markdown: kramdown
 theme: minima
+title: Chess
+author:
+  name: Jeroen Carolus
+  email: "jcarolus@gmail.com"
