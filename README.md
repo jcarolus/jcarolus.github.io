@@ -29,8 +29,8 @@ https://youtu.be/oFvqyaLGvq0
 
 | Store | Link |
 |---|---|
-| F-Droid | https://f-droid.org/packages/jwtc.android.chess/ |
-| Google Play | https://play.google.com/store/apps/details?id=jwtc.android.chess |
+| F-Droid | [https://f-droid.org/packages/jwtc.android.chess/](https://f-droid.org/packages/jwtc.android.chess/) |
+| Google Play | [https://play.google.com/store/apps/details?id=jwtc.android.chess](https://play.google.com/store/apps/details?id=jwtc.android.chess) |
 
 
 ## ☕ Support
