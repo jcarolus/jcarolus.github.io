@@ -33,6 +33,11 @@
 | Google Play | [https://play.google.com/store/apps/details?id=jwtc.android.chess](https://play.google.com/store/apps/details?id=jwtc.android.chess) |
 
 
+## 📖 Source
+
+[https://github.com/jcarolus/android-chess](https://github.com/jcarolus/android-chess)
+
+
 ## ☕ Support
 
 If you enjoy the app, consider buying me a coffee!
