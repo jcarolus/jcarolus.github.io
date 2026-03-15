@@ -1,5 +1,5 @@
 
-![Chess](./images/logo.svg =100x100)
+![Chess](./images/logo.svg)
 
 
 > A free, open-source chess app — no ads, just chess.
