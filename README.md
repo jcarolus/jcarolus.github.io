@@ -38,7 +38,7 @@
 [https://github.com/jcarolus/android-chess](https://github.com/jcarolus/android-chess)
 
 
-## Help group
+## ❓ Help group
 
 [https://groups.google.com/g/jwtc](https://groups.google.com/g/jwtc)
 
