@@ -24,19 +24,19 @@ layout: default
 
 | Store | Link |
 |---|---|
-| F-Droid | [f-droid.org/packages/jwtc.android.chess](https://f-droid.org/packages/jwtc.android.chess/) |
-| Google Play | [play.google.com/store/apps/details?id=jwtc.android.chess](https://play.google.com/store/apps/details?id=jwtc.android.chess) |
+| F-Droid | [https://f-droid.org/packages/jwtc.android.chess](https://f-droid.org/packages/jwtc.android.chess/) |
+| Google Play | [https://play.google.com/store/apps/details?id=jwtc.android.chess](https://play.google.com/store/apps/details?id=jwtc.android.chess) |
 
 ## Source code
 
-[github.com/jcarolus/android-chess](https://github.com/jcarolus/android-chess)
+[https://github.com/jcarolus/android-chess](https://github.com/jcarolus/android-chess)
 
 ## Help
 
 Questions or issues? Join the discussion group:
-[groups.google.com/g/jwtc](https://groups.google.com/g/jwtc)
+[https://groups.google.com/g/jwtc](https://groups.google.com/g/jwtc)
 
 ## Support the project
 
 If you enjoy the app, consider buying me a coffee:
-[paypal.me/jcaroluschess](https://paypal.me/jcaroluschess)
+[https://paypal.me/jcaroluschess](https://paypal.me/jcaroluschess)
