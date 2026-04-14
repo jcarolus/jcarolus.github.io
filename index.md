@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Features
+## Chess
 
 - **Multiple game modes** — Standard chess, Chess 960, and Duck chess (experimental)
 - **Play online** — Connect to [Lichess](https://lichess.org) and [FICS](https://freechess.org)
