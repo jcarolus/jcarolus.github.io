@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Chess
+## Features
 
-- **Multiple game modes** — Standard chess, Chess 960, and Duck chess (experimental)
+- **Multiple game variants** — Standard chess, Chess 960, and Duck chess (experimental)
 - **Play online** — Connect to [Lichess](https://lichess.org) and [FICS](https://freechess.org)
 - **Puzzles** — Lichess puzzle collection and mate-in-two challenges
 - **Chromecast support** — Cast the board to your TV
