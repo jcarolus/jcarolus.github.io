@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Features
 
 - **Multiple game modes** — Standard chess, Chess 960, and Duck chess (experimental)
