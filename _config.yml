@@ -1,9 +1,10 @@
 markdown: kramdown
 title: Chess
+description: A free, open-source chess app for Android — no ads, no tracking, just chess.
 author:
   name: Jeroen Carolus
   email: "jcarolus@gmail.com"
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
