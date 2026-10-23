@@ -8,12 +8,13 @@ layout: default
 - **Play online** — Connect to [Lichess](https://lichess.org) and [FICS](https://freechess.org)
 - **Puzzles** — Lichess puzzle collection and mate-in-two challenges
 - **Chromecast support** — Cast the board to your TV
-- **Opening explorer** — Browse the ECO opening encyclopedia
+- **Opening explorer** — Browse the ECO opening database
 - **Game database** — Store and search your games locally
 - **Accessibility** — Screen reader support via TalkBack
 - **Board editor** — Set up custom positions manually
 - **Engine support** — Plug in third-party chess engines via the Open Exchange Protocol (OEX)
-
+- **Device support** - Works on phone, tablet and TV
+- **Lightweight** - Takes a couple of MB to install
 ---
 
 ## Demo
