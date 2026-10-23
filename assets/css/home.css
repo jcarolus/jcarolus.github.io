@@ -74,3 +74,12 @@ footer > div { display: flex; flex-wrap: wrap; gap: 18px; }
   footer { gap: 22px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Privacy page shares the homepage header, footer, and typography. */
+.policy { max-width: 760px; padding: 42px 0 60px; }
+.back-link { color: #397147; font-size: 12px; }
+.policy-heading { margin-top: 38px; }
+.policy-content { background: #f5f7f3; border-radius: 14px; padding: clamp(24px, 4vw, 38px); color: #59675e; font-size: 14px; line-height: 1.9; }
+.policy-content p + p { margin-top: 20px; }
+.policy-content a { color: #244d37; text-decoration: underline; text-underline-offset: 3px; overflow-wrap: anywhere; }
+.policy-content a:hover { color: #36804d; }

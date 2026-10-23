@@ -11,4 +11,5 @@ plugins:
 # Preserve the Markdown source without generating a second index.html.
 exclude:
   - index.md
+  - privacy/README.md
 
