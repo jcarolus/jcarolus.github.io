@@ -1,6 +1,6 @@
 markdown: kramdown
-title: Chess
-description: A free, open-source chess app for Android — no ads, no tracking, just chess.
+title: jcarolus
+description: Hello world
 author:
   name: Jeroen Carolus
   email: "jcarolus@gmail.com"
@@ -8,8 +8,5 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-# Preserve the Markdown source without generating a second index.html.
-exclude:
-  - index.md
-  - privacy/README.md
+
 
